@@ -1,0 +1,4 @@
+Merhaba ben Hüseyin Murat Gezer, 
+Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği mezunuyum.
+Frontend developer olarak çalışmaktayım.
+Kodluyoruz İOS Bootcamp'inde kariyerime yeni bir yön vermeye çalışıyorum..
